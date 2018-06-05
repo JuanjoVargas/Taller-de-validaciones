@@ -1,0 +1,9 @@
+F:\Taller_Validacion\Taller_Validacion\bin\Debug\Taller_Validacion.exe.config
+F:\Taller_Validacion\Taller_Validacion\bin\Debug\Taller_Validacion.exe
+F:\Taller_Validacion\Taller_Validacion\bin\Debug\Taller_Validacion.pdb
+F:\Taller_Validacion\Taller_Validacion\obj\Debug\Taller_Validacion.csprojResolveAssemblyReference.cache
+F:\Taller_Validacion\Taller_Validacion\obj\Debug\Taller_Validacion.FrmPrestacionServicio.resources
+F:\Taller_Validacion\Taller_Validacion\obj\Debug\Taller_Validacion.Properties.Resources.resources
+F:\Taller_Validacion\Taller_Validacion\obj\Debug\Taller_Validacion.csproj.GenerateResource.Cache
+F:\Taller_Validacion\Taller_Validacion\obj\Debug\Taller_Validacion.exe
+F:\Taller_Validacion\Taller_Validacion\obj\Debug\Taller_Validacion.pdb
